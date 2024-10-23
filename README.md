@@ -8,7 +8,7 @@ Object-Detection-Yolov5 is a Django WebApp integrating YoloV5 for real-time obje
 </tr>
 </table>
 
-# ![WebApp](https://skaitech.al/wp-content/uploads/2024/10/ezgif.com-animated-gif-maker.gif)
+# ![WebApp](https://skaitech.al/wp-content/uploads/2024/10/ezgif.com-optimize-1.gif)
 
 ## Mobile support
 
