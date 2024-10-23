@@ -31,3 +31,9 @@ The WebApp is compatible with devices of all sizes and all OS's, and consistent 
 ## [License](https://github.com/inerttila/Object_Detection_YoloV5/blob/main/LICENSE)
 
 MIT © [Inert Tila ](https://github.com/inerttila/Object_Detection_YoloV5/blob/main/LICENSE)
+
+## [Contact Me ](https://inert.netlify.app)
+
+Website © [Inert Tila ](https://inert.netlify.app)
+
+Linkedin © [Inert Tila ](https://www.linkedin.com/in/inerttila)
