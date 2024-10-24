@@ -14,7 +14,7 @@ You can upload either a TIFF photo with metadata or a regular photo to detect ob
 <table>
   <tr>
     <td>
-      <img src="https://skaitech.al/wp-content/uploads/2024/10/ezgif.com-optimize-1.gif" alt="WebApp" width="500" />
+      <img src="https://skaitech.al/wp-content/uploads/2024/10/ezgif.com-optimize-1.gif" alt="WebApp" width="700" />
     </td>
     <td>
       <img src="https://skaitech.al/wp-content/uploads/2024/10/ezgif.com-animated-gif-maker-1.gif" alt="WebApp GIF" width="120" />
