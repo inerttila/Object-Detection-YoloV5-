@@ -11,13 +11,16 @@ You can upload either a TIFF photo with metadata or a regular photo to detect ob
 </tr>
 </table>
 
-# ![WebApp](https://skaitech.al/wp-content/uploads/2024/10/ezgif.com-optimize-1.gif)
-
-## Mobile support
-
-The WebApp is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
-
-![](https://skaitech.al/wp-content/uploads/2024/10/ezgif.com-animated-gif-maker-1.gif)
+<table>
+  <tr>
+    <td>
+      <img src="https://skaitech.al/wp-content/uploads/2024/10/ezgif.com-optimize-1.gif" alt="WebApp" width="1000" />
+    </td>
+    <td>
+      <img src="https://skaitech.al/wp-content/uploads/2024/10/ezgif.com-animated-gif-maker-1.gif" alt="WebApp GIF" width="250" />
+    </td>
+  </tr>
+</table>
 
 ## Built with
 
