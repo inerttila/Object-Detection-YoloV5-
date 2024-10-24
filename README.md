@@ -4,6 +4,9 @@
 <tr>
 <td>
 Object-Detection-Yolov5 is a Django WebApp integrating YoloV5 for real-time object detection. Harness the power of Python, Django, and YoloV5 .
+
+You can upload either a TIFF photo with metadata or a regular photo to detect objects using YOLO.
+
 </td>
 </tr>
 </table>
