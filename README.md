@@ -22,6 +22,8 @@ You can upload either a TIFF photo with metadata or a regular photo to detect ob
   </tr>
 </table>
 
+## Processed TIFF photos
+
 <table>
   <tr>
     <td>
