@@ -22,6 +22,20 @@ You can upload either a TIFF photo with metadata or a regular photo to detect ob
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td>
+      <img src="https://skaitech.al/wp-content/uploads/2024/10/Untitled2.png" alt="WebApp" width="200" />
+    </td>
+    <td>
+      <img src="https://skaitech.al/wp-content/uploads/2024/10/Untitled1.png" alt="WebApp GIF" width="200" />
+    </td>
+      <td>
+      <img src="https://skaitech.al/wp-content/uploads/2024/10/Untitled.png" alt="WebApp GIF" width="200" />
+    </td>
+  </tr>
+</table>
+
 ## Built with
 
 - Django: A high-level Python web framework used for rapid development and clean design.
