@@ -21,6 +21,13 @@ You can upload either a TIFF photo with metadata or a regular photo to detect ob
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>
+      <img src="https://skaitech.al/wp-content/uploads/2024/12/ezgif.com-animated-gif-maker.gif" alt="WebApp" width="650" />
+    </td>
+  </tr>
+</table>
 
 ## Processed TIFF photos
 
